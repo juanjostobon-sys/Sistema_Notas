@@ -1,0 +1,5 @@
+com\mycompany\sistemanotas\SistemaNotas.class
+Modelo\ModeloEstudiantes.class
+Controlador\ControladorNotas.class
+Modelo\ModeloCursos.class
+Vista\VistaNotas.class
